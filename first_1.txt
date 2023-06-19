@@ -2,3 +2,4 @@
 ワークフローの練習
 ・git add 、git commit について解説
 ・git rm について解説した。
+・git status について解説する
