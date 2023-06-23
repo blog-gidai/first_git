@@ -3,3 +3,4 @@
 ・git add 、git commit について解説
 ・git rm について解説した。
 ・git status について解説する
+・git diff について解説する
